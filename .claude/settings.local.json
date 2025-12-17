@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(node utils/downloadModels.js:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(node index.js:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
